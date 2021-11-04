@@ -3,7 +3,7 @@
 <h4 align="center">Só mais um cara na internet tentando aprender a programar :)</h4>
 <hr width = “1” size = “100”>
 
-# Tecnologias que estou aprendendo
+### Tecnologias que estou aprendendo
 
 <table><tr><td valign="top" width="33%">
 
@@ -21,7 +21,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
@@ -39,7 +39,7 @@
 </td></tr></table>  
 <br/>  
 
-### Contate-me
+<h3 align="center">Contate-me</h3>
 <div align="center">
 <a href="https://github.com/kawanrandoli" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -52,5 +52,5 @@
 </div>
 <br/>  
 
-### Github Stats  
+<h3 align="center">Status</h3>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kawan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
