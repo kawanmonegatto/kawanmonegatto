@@ -2,7 +2,7 @@
 <p align="left">
   Só mais um cara na internet tentando aprender a programar :) </br>
 </p>
-<div align="center">
+<div align="left">
   <a href="https://github.com/kawanmonegatto">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kawanmonegatto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
